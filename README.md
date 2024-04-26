@@ -9,4 +9,4 @@ Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2
 
 If you are downloading the dataset, please do not unzip this as the code has been written to treat the datafile as a zipped file. Also ensure that the dataset is within a folder called rawdata, this is so the code can find the file. 
 
-Although no statistical analysis was conducted, there appears to be an increasing use of condoms prevalence, perhaps a steady increase in implants and injections, the pill appears rather stable and a slight reduction in IUD use. This project was inspired by the research/general rhetoric that women/girls aren’t happy with hormonal contraception, so it would be interesting to see if this affects the mean use 
+Although no statistical analysis was conducted, there appears to be an increasing use of condoms prevalence, perhaps a steady increase in implants and injections, the pill appears rather stable and a slight reduction in IUD use. This project was inspired by the research/general rhetoric that women/girls aren’t happy with hormonal contraception, so it would be interesting to see if this affects the use. 

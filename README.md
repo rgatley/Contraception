@@ -1,5 +1,5 @@
-# Contraception
-Final assessment PSY6422- Visualising data on contraceptive use in Europe
+# Contraception trends
+## Final assessment PSY6422- Visualising data on contraceptive use in Europe
 
 This project aimed to explore the trends in contraception use in the last 30 years in Europe. The project initially explored many types of contraceptive use but then was whittled down to condom, implant, injection, IUD and the pill use. This was purely based off an interest in hormonal contraceptives and a seemingly obvious comparison to the physical barrier contraception (condoms). Details on where the dataset was collected (including links and references) is in the codebook, please note that the dataset collected was a part of a larger dataset consisting of 4 excel spreadsheets. 
 
